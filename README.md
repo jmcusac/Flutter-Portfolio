@@ -1,6 +1,6 @@
 # Flutter Portfolio
 
-![Demo Animation](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter_Animation.gif?raw=true)
+![Demo Animation](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter-Animation.gif?raw=true)
 
 ### Build once and deploy multiple:
 
