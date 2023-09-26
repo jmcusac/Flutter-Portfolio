@@ -3,11 +3,11 @@
 *.log
 *.pyc
 *.swp
-.DS_Store
 .atom/
 .buildlog/
 .history
 .svn/
+.DS_Store
 migrate_working_dir/
 
 # IntelliJ related
@@ -221,8 +221,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-### AndroidStudio Patch ###
+# AndroidStudio
 
 !/gradle/wrapper/gradle-wrapper.jar
-
-# End of https://www.toptal.com/developers/gitignore/api/flutter,androidstudio

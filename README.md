@@ -1,20 +1,20 @@
-### Portfolio Overview:
+### Flutter Portfolio Overview:
 
-Flutter "build once and deploy twice"
+"Build once and deploy multiple"
 
 Android, iOS and Web apps that can be easily extended to Windows Desktop.
 
 Fetches and displays a list of data from a RESTful API call with a unit testing focus through RxDart (similar to RxSwift).
 
-Best practices in testable architecture provide easy-to-maintain and scalable code.
+Best practices in testable architecture that shorten development cycles by eliminating heavy dependence on QA Teams through easy-to-maintain and scalable code.
 
 ### Focus Points:
 
-* Proof of concept in Flutter, the future of enterprise development
-* MVVM & State management akin to Combine
-* Android Retrofit for the Network layer
+* Flutter PoC (The future of enterprise development)
+* MVVM state management (akin to Combine on iOS)
+* Retrofit for the Network layer (A life saver on Android)
 * Unit testing with RxDart
 
 ### Getting Started:
 
-Pods have been deprecated, but please run "flutter pub run build_runner build" in terminal
+iOS pods have now been deprecated, but the following command is still necessary: "flutter pub run build_runner build" in terminal
