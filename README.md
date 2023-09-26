@@ -1,6 +1,8 @@
-# Flutter Portfolio Overview:
+# Flutter Portfolio Overview
 
-"Build once and deploy multiple"
+![alt text](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter_Icon.jpg?raw=true)
+
+### Build once and deploy multiple:
 
 Android, iOS and Web apps that can be easily extended to Windows Desktop.
 
@@ -14,8 +16,6 @@ Best practices in testable architecture that shorten development cycles by elimi
 * MVVM state management (akin to Combine on iOS)
 * Retrofit for the Network layer (A life saver on Android)
 * Unit testing with RxDart
-
-![alt text](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter_Icon.jpg?raw=true)
 
 ### Getting Started:
 
