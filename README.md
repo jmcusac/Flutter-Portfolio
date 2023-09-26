@@ -1,4 +1,4 @@
-### Flutter Portfolio Overview:
+# Flutter Portfolio Overview:
 
 "Build once and deploy multiple"
 
@@ -15,8 +15,11 @@ Best practices in testable architecture that shorten development cycles by elimi
 * Retrofit for the Network layer (A life saver on Android)
 * Unit testing with RxDart
 
+![alt text](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter_Icomn.jpg?raw=true)
+
 ### Getting Started:
 
 The following command is REQUIRED to install the project.
 
-Depending on IDE and x86 or ARM chip, the terminal/power shell script may differ: "flutter pub run build_runner build" in terminal
+Depending on IDE and x86 or ARM chip, the terminal/power shell script may differ:
+"flutter pub run build_runner build"
