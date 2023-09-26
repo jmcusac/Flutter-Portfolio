@@ -20,7 +20,7 @@
 
 ### How to begin:
 
-**The following command is _REQUIRED__ to install the project.**
+The following command is **_REQUIRED_** to install the project.
 
 Depending on IDE and x86 or ARM chip, the terminal/power shell script may differ:
 "flutter pub run build_runner build"
