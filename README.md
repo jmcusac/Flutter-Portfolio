@@ -12,10 +12,17 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 ### Primary focus points:
 
-* Flutter PoC (The future of enterprise development)
-* MVVM state management (akin to Combine on iOS)
-* Retrofit for the Network layer (A life saver on Android)
+* Flutter PoC
+**** Portfolio proof of concept
+* MVVM state management
+**** Akin to Combine on iOS
+* Retrofit for the Network layer
+**** A life saver on Android
 * Unit testing with RxDart
+* Inter-compatible with:
+**** iOS xcode
+**** IntelliJ Idea and Android Studio
+**** Visual Code for Web
 
 ### How to begin:
 
