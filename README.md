@@ -1,4 +1,4 @@
-# FLUTTER PORTFOLIO
+# Flutter Portfolio
 
 ![alt text](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter_Icon.jpg?raw=true)
 
@@ -12,17 +12,11 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 ### Primary focus points:
 
-* Flutter PoC
-**** Portfolio proof of concept
-* MVVM state management
-**** Akin to Combine on iOS
-* Retrofit for the Network layer
-**** A life saver on Android
+* Flutter PoC: portfolio proof of concept
+* MVVM state management: akin to Combine on iOS
+* Retrofit for the Network layer: a life saver on Android
 * Unit testing with RxDart
-* Inter-compatible with:
-**** iOS xcode
-**** IntelliJ Idea and Android Studio
-**** Visual Code for Web
+* Inter-compatible with: iOS Xcode, IntelliJ IDEA, Android Studio & Visual Code for Web
 
 ### How to begin:
 
