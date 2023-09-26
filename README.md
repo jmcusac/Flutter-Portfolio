@@ -15,7 +15,7 @@ Best practices in testable architecture that shorten development cycles by elimi
 * Retrofit for the Network layer (A life saver on Android)
 * Unit testing with RxDart
 
-![alt text](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter_Icomn.jpg?raw=true)
+![alt text](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter_Icon.jpg?raw=true)
 
 ### Getting Started:
 
