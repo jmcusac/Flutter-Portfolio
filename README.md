@@ -1,7 +1,6 @@
-# Flutter Portfolio
+# Cusack Portfolio
 
 ![Demo Animation](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter-Animation.gif?raw=true)
-Various open source in attributions
   
 ### Primary focus points:
 
@@ -22,7 +21,11 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 ### Attributions
 
+Solido: Awesome Flutter
 https://github.com/Solido/awesome-flutter
+
+Flutter
+https://github.com/flutter/flutter
 
 ### How to begin:
 
