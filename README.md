@@ -31,7 +31,7 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 * Shirvanie - Messenger: iOS launch time optimizations[^3].
   
-[^3]https://github.com/shirvanie/flutter_messenger_clean_architecture
+[^3]: https://github.com/shirvanie/flutter_messenger_clean_architecture
   
 * Flutter: Core tech stack[^4].
   
