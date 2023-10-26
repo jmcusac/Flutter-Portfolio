@@ -27,7 +27,7 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 * Solido: Awesome Flutter [^2]
   
-[^2]: https://github.com/gskinnerTeam/flutter-wonderous-app
+[^2]: [https://github.com/gskinnerTeam/flutter-wonderous-app](https://github.com/Solido/awesome-flutter)
 
 * Shirvanie: Messenger [^3]
   
