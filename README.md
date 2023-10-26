@@ -22,16 +22,20 @@ Best practices in testable architecture that shorten development cycles by elimi
 ### Open-Source Attributions
 
 * Gskinner - Wonderous: UI contraints[^1].
-[^1]https://github.com/gskinnerTeam/flutter-wonderous-app
+  
+[^1][[https://github.com/gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app)]
 
-* Solido - Awesome Flutter: Best practices[^2]. 
-[^2][https://github.com/gskinnerTeam/flutter-wonderous-app](https://github.com/Solido/awesome-flutter)
+* Solido - Awesome Flutter: Best practices[^2].
+  
+[^2][[https://github.com/gskinnerTeam/flutter-wonderous-app](https://github.com/Solido/awesome-flutter)]
 
 * Shirvanie - Messenger: iOS launch time optimizations[^3].
-[^3][https://github.com/gskinnerTeam/flutter-wonderous-app](https://github.com/shirvanie/flutter_messenger_clean_architecture)
+  
+[^3][[[https://github.com/gskinnerTeam/flutter-wonderous-app](https://github.com/shirvanie/flutter_messenger_clean_architecture)]
   
 * Flutter: Core tech stack[^4].
-[^4]https://github.com/flutter/flutter
+  
+[^4][[https://github.com/flutter/flutter](https://github.com/flutter/flutter)]
 
 ### How to begin:
 
