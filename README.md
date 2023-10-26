@@ -1,10 +1,10 @@
 # Flutter Portfolio
 
 ![Demo Animation](https://github.com/jmcusac/CuSoft-Flutter-Portfolio/blob/main/graphics/Flutter-Animation.gif?raw=true)
-
+Various open source in attributions
+  
 ### Primary focus points:
 
-* Forked from Flutter Open Source in attributions
 * MVVM state management
 * Retrofit for the Network layer
 * Unit testing with RxDart
