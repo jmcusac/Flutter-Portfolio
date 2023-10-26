@@ -19,12 +19,12 @@ void main() {
       UniversityScreenState(universities: [
     UniversityScreenModel(
         country: "United States",
-        name: "Marywood University",
-        website: "http://www.marywood.edu"),
+        name: "Illinois State University",
+        website: "https://illinoisstate.edu/"),
     UniversityScreenModel(
         country: "United States",
-        name: "Lindenwood University",
-        website: "http://www.lindenwood.edu/")
+        name: "University of Illinois",
+        website: "https://illinois.edu/")
   ]);
 
   group("Test function calls", () {
