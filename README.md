@@ -21,9 +21,8 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 ### Open-Source Attributions
 
-* UI contraints
-
-Gskinner - Wonderous: https://github.com/gskinnerTeam/flutter-wonderous-app
+UI contraints[^1].
+[^1]: Gskinner - Wonderous: https://github.com/gskinnerTeam/flutter-wonderous-app
 
 * Best practices
 
