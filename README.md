@@ -20,6 +20,10 @@ Fetches and displays a list of data from an asynchronous RESTful API call with a
 
 Best practices in testable architecture that shorten development cycles by eliminating heavy dependence on QA Teams through easy-to-maintain and scalable code.
 
+### Attributions
+
+https://github.com/Solido/awesome-flutter
+
 ### How to begin:
 
 The following command is **_REQUIRED_** to install the project.
