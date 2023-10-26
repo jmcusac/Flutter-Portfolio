@@ -21,10 +21,16 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 ### Attributions
 
+Gskinner: Wonderous
+
+https://github.com/gskinnerTeam/flutter-wonderous-app
+
 Solido: Awesome Flutter
+
 https://github.com/Solido/awesome-flutter
 
 Flutter
+
 https://github.com/flutter/flutter
 
 ### How to begin:
