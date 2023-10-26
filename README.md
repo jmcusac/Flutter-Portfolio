@@ -19,19 +19,15 @@ Fetches and displays a list of data from an asynchronous RESTful API call with a
 
 Best practices in testable architecture that shorten development cycles by eliminating heavy dependence on QA Teams through easy-to-maintain and scalable code.
 
-### Attributions
+### Open-Source Attributions
 
-Gskinner: Wonderous
+Gskinner - Wonderous: https://github.com/gskinnerTeam/flutter-wonderous-app
 
-https://github.com/gskinnerTeam/flutter-wonderous-app
+Solido - Awesome Flutter: https://github.com/Solido/awesome-flutter
 
-Solido: Awesome Flutter
+Shirvanie - Messenger: https://github.com/shirvanie/flutter_messenger_clean_architecture
 
-https://github.com/Solido/awesome-flutter
-
-Flutter
-
-https://github.com/flutter/flutter
+Flutter: https://github.com/flutter/flutter
 
 ### How to begin:
 
