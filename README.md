@@ -4,17 +4,19 @@
 
 ### Primary focus points:
 
-* Flutter PoC: portfolio proof of concept
-* MVVM state management: akin to Combine on iOS
-* Retrofit for the Network layer: a life saver on Android
+* Forked from Flutter Open Source in attributions
+* MVVM state management
+* Retrofit for the Network layer
 * Unit testing with RxDart
-* Inter-compatible with: iOS Xcode, Android Studio / IntelliJ IDEA & Web Visual Studio Code
-
+* Coded Android, iOS & Web with Visual Studio Code
+* Deploy Android and Web with VS Code 
+* Deploy iOS with Xcode
+  
 ### Build once and deploy multiple:
 
-Android, iOS and Web apps that can be easily extended to Windows Desktop.
+Android, iOS and Web apps that can be easily extended to Windows Desktop in the future.
 
-Fetches and displays a list of data from a RESTful API call with a unit testing focus through RxDart (similar to RxSwift).
+Fetches and displays a list of data from an asynchronous RESTful API call with a unit testing focus through RxDart.
 
 Best practices in testable architecture that shorten development cycles by eliminating heavy dependence on QA Teams through easy-to-maintain and scalable code.
 
@@ -22,5 +24,4 @@ Best practices in testable architecture that shorten development cycles by elimi
 
 The following command is **_REQUIRED_** to install the project.
 
-Depending on IDE and x86 or ARM chip, the terminal/power shell script may differ:
-"flutter pub run build_runner build"
+Power shell script: "flutter pub run build_runner build"
